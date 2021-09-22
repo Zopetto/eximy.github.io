@@ -1,4 +1,3 @@
-   
 /* -----------------------------------------------
 /* How to use? : Check the GitHub README
 /* ----------------------------------------------- */
@@ -25,7 +24,7 @@ particlesJS(
           },
         },
         color: {
-          value: "#ffffff",
+          value: "#d61111",
         },
         shape: {
           type: "circle",
@@ -65,7 +64,7 @@ particlesJS(
         line_linked: {
           enable: true,
           distance: 150,
-          color: "#ffffff",
+          color: "#b80d0d",
           opacity: 0.4,
           width: 1,
         },
